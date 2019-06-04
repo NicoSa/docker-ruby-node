@@ -1,4 +1,4 @@
-FROM ruby:2-alpine
+FROM ruby:2.5.3-alpine
 
 ENV NODE_MAJOR 10
 
